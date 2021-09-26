@@ -1,4 +1,4 @@
-# Exercice 2:
+# Exercice 1:
 # 1- Calcul de la moyenne, de la variance et representation graphique
 M=5000; n=15; mu=-10; sigma=1.5
 Realisation=matrix(ncol=n, nrow=M)
