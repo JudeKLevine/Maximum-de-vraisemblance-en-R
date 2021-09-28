@@ -1,6 +1,6 @@
 # Exercice 7: Esteimateur de vraisemblance
 # 1- Simulation
-  M=10000; n=10; theta=0.1
+  M=5000; n=10; theta=0.1
   Estimateur1=c()
   Estimateur2=c()
   Estimateur3=c()
