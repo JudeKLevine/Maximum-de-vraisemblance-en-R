@@ -1,1 +1,1 @@
-# Maximale-de-vraisemblance-en-R
+# Maximum de vraisemblance en R
